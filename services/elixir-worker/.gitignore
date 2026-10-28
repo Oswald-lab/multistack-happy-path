@@ -1,0 +1,7 @@
+/_build/
+/deps/
+/cover/
+*.ez
+erl_crash.dump
+/hello_otp
+.elixir_ls/
